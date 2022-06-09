@@ -1,1 +1,1 @@
-# Academic-Labs
+# Academic Labs
